@@ -4,7 +4,7 @@ about: Report a bug with functionality
 title: "[BUG] "
 labels: bug
 assignees: ''
-type: bug
+type: "Bug"
 
 ---
 
