@@ -4,6 +4,7 @@ about: A feature to be added during the semester
 title: "[Feature] "
 labels: enhancement
 assignees: ''
+type: "Feature"
 
 ---
 
