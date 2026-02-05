@@ -8,12 +8,20 @@ type: "Task"
 
 ---
 
-**Description:**
+## Description
+
 Include a brief task description...
 
-**TODO:**
+## TODO
+
 - [ ] Task 1
   - [ ] Subtask 1
   - [ ] ...
 - [ ] Task 2
 - [ ] etc.
+
+## Acceptance Criteria
+
+- [ ] Criteria 1
+- [ ] Criteria 2
+- [ ] ...
